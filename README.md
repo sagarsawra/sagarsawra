@@ -13,10 +13,10 @@
 const sagar = {
   name: "Sagar Sawra",
   role: "MERN Stack Developer + AI/ML Enthusiast",
-  currently: "Building ChatConnect — a Real-Time Omegle Clone 🎥",
+  currently: "Building Honeypot — a Real-Time Omegle Clone 🎥",
   learning: ["System Design", "Scalable Backend Architectures"],
   passions: ["AI Systems", "Data Science", "Intelligent Applications"],
-  dsa: "300+ problems solved | Strong in Binary Search & Sliding Window",
+  dsa: "300+ problems solved,
   mindset: "Build → Scale → Optimize 🚀",
 };
 ```
